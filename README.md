@@ -33,6 +33,8 @@
 
   3. To create a production build, run: npm run build.
 
+    Or, you can use this live link: https://main--monumental-shortbread-b43cd9.netlify.app/
+
   ## License
 
   This project is licensed under the None license.
